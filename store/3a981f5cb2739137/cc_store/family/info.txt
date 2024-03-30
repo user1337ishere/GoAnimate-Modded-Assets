@@ -1,0 +1,220 @@
+ _______________________
+| About This Asset Pack |
+ -----------------------
+
+This asset pack is made by PreciseAnimate. It includes over a thousand custom assets made by the community, custom colors in the quick color picker, custom actions, custom colors in the quick color picker, and more to come.
+
+___________________________________
+
+ ____________
+| Update Log |
+ ------------
+
+
+-Update 2
+
+Added:
+* Both asset makers Dylan and naifz2008 to the credits.
+* New assets (contains some of my creations that were initially imported from FlashThemes, but unfortunately, an infamous asset thief named Jack2006 stole a lot of my unreleased assets from my new pack then put them into his new asset pack without my permission and somehow he still might've not bothered to remove them):
+	∙ Comedy World version of the Lil' Peepz facedecoration asset "079"
+	∙ Character parts for Luffy from One Piece
+	∙ Character parts for Fry from Futurama
+	∙ Recolorable eye assets, which means that the overwritten ones now have "_exe" as a suffix
+	∙ Character parts for Foxxy Love, Princess Clara, and Captain Hero from Drawn Together
+	∙ Character parts for Sabrina the Teenage Witch (both the Archie comics and the animated series versions)
+	∙ New version of Circular glasses with shading
+	∙ New version of a head with The Traveler from Just Dance's facepaint.
+	∙ 2 hair assets that fits on the perfectly circular head (based on those 2 South Park-styled people from The Drawn Together Movie: The Movie)
+	∙ Basketball prop faceshape (ripped from Poptropica)
+	∙ Both wide-open male and female Eyes with Old Cartoon Pupils
+	∙ 2 versions of the (drawn-by-me) curly hair assets
+	∙ Business Friendly curly hair
+	∙ Head for Rudolf (from the Just Dance series)
+	∙ Some new assets from Dani3008's latest asset pack
+	∙ Alternate version of one of the unused Blood On The Dancefloor theme's hair assets
+	∙ My version of the cap asset
+* Few of the eye assets that are missing the custom look down action are now added 
+
+Changed:
+
+* The rest of the Lil' Peepz head parts assets now have an "a" suffix.
+* Hair asset "136new2" is now renamed to "136" and repositioned.
+* Similar to the "136new2" situation, facedecoration asset "107" is now renamed to "028_onecolor" and repositioned.
+* Plenty of asset optimizations.
+* The facedecoration asset, "travellerbeanie", has been updated.
+* Certain asset thumbnails fixed.
+* The facedecoration asset "165" with a newer one because it's exactly a duplicate.
+* Colors on the simple color-picker
+* A couple of "PNG image" assets been vector'd
+
+Removed:
+
+*For size optimization, most of the unnecessary development-related files are no longer there
+
+___________________________________
+
+ ______________
+| Asset Issues |
+ --------------
+
+*not all issues might be listed there
+
+Common:
+
+Common Assets Issue #1 - There are some assets that contains shapes that are originally made in Inkscape. When exporting it, it can outrageously bump up the number of edges than the exported file. In effect, it can cause issues to happen. They are as listed: strokes acting up when scaled up, strokes missing when scaled up, or performing the drawing-like bug (the latter two occur when either of the shapes break the canvas' bounds). Keep in mind that I may optimize them some time in the future.
+
+Common Assets Issue #2 (even though not considered a bug) - A handful of the assets appear to have shapes fully in vector, but they are actually in PNG/JPEG/other image format files instead. In effect, they appear to be odd-looking. For starters, the asset creators make the shapes for them in any image editing program of their choice rather than making them in Flash/Vector editing programs, then put them in a '.swf" file editing program that you can edit the shapes (without being greeted/locked behind a paywall) and calls it "finished".
+
+
+upper_body:
+
+"adam_085" - A couple issues there. Firstly, the dance action has a t-shirt print that clips through the arms as if it were a faceshape asset. Second of all, the asset's masking doesn't appear to fit.
+"adam_086" - The dance, excited, point at, running, sad, talking + on the phone, and taunt actions aren't made yet to resemble the actual asset.
+"adam_army" - The skin tone doesn't want to be colorized + certain animations unintentionally loop.
+"adam_corrinacorrina" (not shown) - Some of the files for the actions aren't there, implying that it's an unfinished asset.
+"adam_sonic" - Unfinished and glitchy asset (most of the times).
+"eve_068" - The asset's masking appears to be visible.
+"eve_083" - The asset's masking appears to be visible.
+"eve_085" - The asset's masking appears to be visible.
+
+lower_body:
+
+"adam_amputee" - The walk animation is unfinished.
+"adam_bucket" - For the bucket part, see 'Common Assets Issue #2' for more info.
+
+faceshape:
+
+"2016" - See 'Common Assets Issue #2' for more info.
+"congle" (my asset) - See 'Common Assets Issue #1' for more info.
+"doki" (old, my asset) - See 'Common Assets Issue #1' for more info.
+"grandhighwitch_trueform" (my asset) - See 'Common Assets Issue #1' for more info.
+"fico" (my asset) - See 'Common Assets Issue #1' for more info.
+"hand" (my asset) - See 'Common Assets Issue #2' for more info.
+"karens_exhusband" (my asset) - See 'Common Assets Issue #1' for more info.
+"mongo" - Misaligned asset, skin color unchangable.
+"mongodad" - Misaligned asset, skin color unchangable.
+"nyancat" - See 'Common Assets Issue #2' for more info.
+"piggy" - See 'Common Assets Issue #2' for more info.
+"render" - See 'Common Assets Issue #2' for more info.
+"traveller" (my asset) - See 'Common Assets Issue #1' for more info.
+"traveller2" (my asset) - See 'Common Assets Issue #1' for more info.
+"traveller3" (my asset) - See 'Common Assets Issue #1' for more info.
+
+hair:
+
+"039_5" (my asset) - See 'Common Assets Issue #1' for more info.
+"056_5" (my asset) - See 'Common Assets Issue #1' for more info.
+"122new" - Misaligned asset.
+"123new" - Misaligned asset.
+"243" - Unintentionally huge, wow.
+"263" (my asset) - See 'Common Assets Issue #1' for more info.
+"263_alternate" (my asset) - See 'Common Assets Issue #1' for more info.
+"borishair" - See 'Common Assets Issue #1' for more info, except I'm not the only one there.
+"doki" (old, my asset) - See 'Common Assets Issue #1' for more info.
+"dreadlocks_1" (my asset) - See 'Common Assets Issue #1' for more info.
+"eduardo" - See 'Common Assets Issue #2' for more info.
+"eric_needles" - See 'Common Assets Issue #2' for more info, but it is also a misaligned asset.
+"kai_sa" (my asset) - See 'Common Assets Issue #1' for more info.
+"kyunghair" (my asset) - See 'Common Assets Issue #1' for more info.
+"jon" - See 'Common Assets Issue #2' for more info.
+"mark" - See 'Common Assets Issue #2' for more info, but it is also a misaligned asset.
+"monica" - See 'Common Assets Issue #2' for more info, but it is also a misaligned asset.
+"morty" (my asset) - See 'Common Assets Issue #1' for more info.
+"parentingchoices_baby" (my asset) - See 'Common Assets Issue #1' for more info.
+"pulse" (my asset) - See 'Common Assets Issue #1' for more info.
+"randymarsh" (my asset) - See 'Common Assets Issue #1' for more info.
+"smosh" - See 'Common Assets Issue #1' for more info.
+"stacyandscarlett" (my asset) - See 'Common Assets Issue #1' for more info.
+"trent_precise_oc" (my asset) - See 'Common Assets Issue #1' for more info.
+"wilma_flintstone" (partially my asset) - See 'Common Assets Issue #1' for more info.
+
+mouth:
+
+Most Lil' Peepz mouth assets - When trying to pick a facial expression in the character menu, most of them take forever to load and therefore automatically gives you an ActionScript error.
+"209" - Long teeth only visible when default.
+
+ear:
+
+"001_style2" (my asset) - See 'Common Assets Issue #1' for more info.
+"002_style2" (my asset) - See 'Common Assets Issue #1' for more info.
+"023" (my asset) - The outline bugs out when trying to scale it.
+"rickandmorty" (my asset) - See 'Common Assets Issue #1' for more info.
+
+nose:
+
+"001_style2" (my asset) - See 'Common Assets Issue #1' for more info.
+"002_style2" (my asset) - See 'Common Assets Issue #1' for more info.
+"doki" (old, my asset) - See 'Common Assets Issue #1' for more info.
+"fico" (my asset) - See 'Common Assets Issue #1' for more info.
+"morty" (my asset) - See 'Common Assets Issue #1' for more info.
+
+facedecoration:
+
+"095" - Misaligned asset
+"099" - See 'Common Assets Issue #2' for more info.
+"115" - Be careful, coloring it can cause the whole asset to be just in a solid color.
+"043_2" (my asset) - See 'Common Assets Issue #1' for more info.
+"beret_lp" (my asset) - See 'Common Assets Issue #1' for more info.
+"fastfood" (my asset) - See 'Common Assets Issue #1' for more info.
+"fico_goggles" (my asset) - See 'Common Assets Issue #1' for more info.
+"fico_teeth" (my asset) - See 'Common Assets Issue #1' for more info.
+"grandhighwitch_earring" (my asset) - See 'Common Assets Issue #1' for more info.
+"jessie_glasses" (old) - See 'Common Assets Issue #2' for more info.
+"jimmy_logo" - See 'Common Assets Issue #2' for more info.
+"kyung_hat" (my asset) - See 'Common Assets Issue #1' for more info.
+"kyung_mask" (my asset) - See 'Common Assets Issue #1' for more info.
+"nightswan_minion_mask" (my asset) - See 'Common Assets Issue #1' for more info.
+"pirate_hat" - See 'Common Assets Issue #2' for more info, except the shape that is used to color the part is barely transparent.
+"raven_s_gem" - See 'Common Assets Issue #2' for more info.
+"trent_precise_oc_hairfg" (my asset) - See 'Common Assets Issue #1' for more info.
+"wings" - See 'Common Assets Issue #2' for more info.
+
+___________________________________
+
+ _________
+| Credits |
+ ---------
+
+
+Based off of - Dani3008's newest asset pack
+
+Pack by - PreciseAnimate
+
+Assets by:
+The GoAnimate/VYond Team
+PreciseAnimate
+GoTube
+Kenny Animate
+NathanSaturnB0i
+Rainbow Zig Zag
+CyansWorldCartoon
+Nicholas D
+GraysonTheHedgehog
+SageAwesomeStarAniPicScope Animations
+KyansWorldCartoon
+Dani3008
+KingHedgehog
+leslieeez
+Luis Strublic
+Waleedarix
+creepyjokes
+Thesodadrinkers
+KingOfTheRainbowWrapper2k5
+MustardPrinter478
+darla
+YassenTheBlueYellowGalaxyAnimator2023 
+Alex Director
+Kevin Fan-Animations
+Dipsy Zuraidi
+MisterChilly
+ChineseScoutYT
+XtraBad
+FinnSpin
+EvanPBanks
+TarabekAnimate
+Hypographix Productions
+Dylan
+naifz2008
+2 other users I no longer take any more assets from:
+-That hypocritical red shirt guy who tries to get away from his bad actions and "loves" Twinkies and prune juice
+-That guy who stole a load of someone else's "private" assets off from FlashThemes without their permissions
